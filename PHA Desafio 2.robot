@@ -6,7 +6,7 @@ Library        BuiltIn
 *** Variables ***
 @{FRUTAS}        morango    laranja    abacaxi    kiwi    mirtilo    uva    
 &{INFORMACOES_PESSOAIS}    
-...                nome=Tiffany Beatriz
+...                nome=Raquel Sarah
 ...                idade=26
 ...                rua=Rua Estados Unidos
 ...                numero=1500
